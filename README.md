@@ -19,3 +19,6 @@ Granger causality https://sapienlabs.org/granger-causality-in-eeg/
 
 
 Oscillations https://sapienlabs.org/brain-waves-sine-waves
+
+
+EEG connectivity Phase lag index https://sapienlabs.org/lab-talk/eeg-connectivity-using-phase-lag-index/
