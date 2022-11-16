@@ -22,3 +22,5 @@ Oscillations https://sapienlabs.org/brain-waves-sine-waves
 
 
 EEG connectivity Phase lag index https://sapienlabs.org/lab-talk/eeg-connectivity-using-phase-lag-index/
+
+Phase locking value https://sapienlabs.org/lab-talk/phase-locking-value/
